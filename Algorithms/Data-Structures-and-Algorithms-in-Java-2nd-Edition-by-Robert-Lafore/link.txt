@@ -1,0 +1,3 @@
+https://github.com/srsandy/Data-Structures-and-Algorithms-in-Java-2nd-Edition-by-Robert-Lafore
+
+https://github.com/dbc2201/gla-bcsc0006-2019/blob/master/Books/Data_Structures_and_Algorithms_in_Java_2nd_Edition.pdf
