@@ -92,7 +92,6 @@ Dòng 55 gọi hàm toLowercase
 
 ## 5. Problem Solving Patterns
 ### 1. PREREQUISITES.html
-### 
 ### 2. Intro to Problem Solving Patterns
 ### 2.1 SLIDES.html
 
@@ -158,9 +157,60 @@ same([1,2,3,2,5], [9,1,4,4,11])
 
 ### 5. Frequency Counter - validAnagram.html
 
+```js
+function validAnagram(first, second) {
+  if (first.length !== second.length) {
+    return false;
+  }
+
+  const lookup = {};
+
+  for (let i = 0; i < first.length; i++) {
+    let letter = first[i];
+    // if letter exists, increment, otherwise set to 1
+    lookup[letter] ? lookup[letter] += 1 : lookup[letter] = 1;
+  }
+  console.log(lookup)
+
+  for (let i = 0; i < second.length; i++) {
+    let letter = second[i];
+    // can't find letter or letter is zero then it's not an anagram
+    if (!lookup[letter]) {
+      return false;
+    } else {
+      lookup[letter] -= 1;
+    }
+  }
+
+  return true;
+}
+
+// {a: 0, n: 0, g: 0, r: 0, m: 0,s:1}
+validAnagram('anagrams', 'nagaramm')
+```
+
+
+
 ### 6. Anagram Challenge Solution
 
 ### 7. Multiple Pointers Pattern
+
+```js
+function sumZero(arr){
+    for(let i = 0; i < arr.length; i++){
+        for(let j = i+1; j < arr.length; j++){
+            if(arr[i] + arr[j] === 0){
+                return [arr[i], arr[j]];
+            }
+        }
+    }
+}
+
+
+sumZero([-4,-3,-2,-1,0,1,2,5])
+```
+
+
 
 ### 8. Multiple Pointers Count Unique Values Challenge
 
