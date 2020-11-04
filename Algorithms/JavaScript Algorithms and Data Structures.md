@@ -22,8 +22,54 @@
 
 https://cs.slides.com/colt_steele/big-o-notation#/0/0/0
 
+![image-20201104001839116](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104001839116.png)  
+
+![image-20201104001915788](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104001915788.png)  
+
+![image-20201104002150129](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104002150129.png)
+
+![image-20201104002258589](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104002258589.png)
+
+![image-20201104002413446](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104002413446.png)
+
+![image-20201104002541829](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104002541829.png)
+
+![image-20201104072413035](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104072413035.png)
+
+![image-20201104072502422](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104072502422.png)
+
+![image-20201104072601722](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104072601722.png)
+
+![image-20201104072645169](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104072645169.png)
+
+![image-20201104072748985](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104072748985.png)
+
+![image-20201104073131150](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073131150.png)
+
+![image-20201104073200892](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073200892.png)
+
+![image-20201104073239661](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073239661.png)
+
+![image-20201104073442213](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073442213.png)
+
+![image-20201104073515446](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073515446.png)
+
+![image-20201104073552018](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073552018.png)![image-20201104073621857](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073621857.png)
+
+![image-20201104073638752](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073638752.png)
+
+![image-20201104073737767](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073737767.png)
+
+
+
+![image-20201104073802698](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073802698.png)
+
+![image-20201104073849529](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073849529.png)
 
 ### 2. Timing Our Code
+
+![image-20201104074315401](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104074315401.png)
+
 ### 3. Counting Operations
 ### 4. Visualizing Time Complexities
 ### 4.1 Performance Tracker Tool.html
