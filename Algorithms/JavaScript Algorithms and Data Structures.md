@@ -22,9 +22,31 @@
 
 https://cs.slides.com/colt_steele/big-o-notation#/0/0/0
 
-![image-20201104001839116](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104001839116.png)  
+![image-20201104001839116](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104001839116.png)
 
-![image-20201104001915788](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104001915788.png)  
+![image-20210627232111071](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210627232111071.png)
+
+![image-20210627232131354](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210627232131354.png)
+
+  ![image-20210627232213227](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210627232213227.png)
+
+![image-20201104001915788](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104001915788.png)
+
+![image-20210628073039660](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073039660.png)
+
+![image-20210628073106622](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073106622.png)
+
+![image-20210628073144063](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073144063.png)
+
+### 2. Timing Our Code
+
+![image-20201104074315401](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104074315401.png)
+
+### 3. Counting Operations
+
+![image-20210628073252159](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073252159.png)
+
+![image-20210628073306700](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073306700.png)  
 
 ![image-20201104002150129](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104002150129.png)
 
@@ -32,9 +54,29 @@ https://cs.slides.com/colt_steele/big-o-notation#/0/0/0
 
 ![image-20201104002413446](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104002413446.png)
 
+### 4. Visualizing Time Complexities
+
+![image-20210628075327018](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628075327018.png)
+
+Increase the number in the plot to see the changes with two function
+
+### 4.1 Performance Tracker Tool.html
+
+https://rithmschool.github.io/function-timer-demo/
+
+### 5. Official Intro to Big O
+
 ![image-20201104002541829](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104002541829.png)
 
 ![image-20201104072413035](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104072413035.png)
+
+![image-20210628073344625](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073344625.png)
+
+![image-20210628073440169](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073440169.png)
+
+### 6. Simplifying Big O Expressions
+### 7. Big O Time Complexity Quiz.html
+### 8. Big O Time Complexity Quiz 2.html
 
 ![image-20201104072502422](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104072502422.png)
 
@@ -49,6 +91,11 @@ https://cs.slides.com/colt_steele/big-o-notation#/0/0/0
 ![image-20201104073200892](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073200892.png)
 
 ![image-20201104073239661](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073239661.png)
+
+![image-20210628073826545](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628073826545.png)
+
+### 9. Space Complexity
+### 10. Big O Space Complexity Quiz.html
 
 ![image-20201104073442213](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073442213.png)
 
@@ -66,22 +113,11 @@ https://cs.slides.com/colt_steele/big-o-notation#/0/0/0
 
 ![image-20201104073849529](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104073849529.png)
 
-### 2. Timing Our Code
+![image-20210628074548322](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20210628074548322.png)
 
-![image-20201104074315401](JavaScript%20Algorithms%20and%20Data%20Structures.assets/image-20201104074315401.png)
 
-### 3. Counting Operations
-### 4. Visualizing Time Complexities
-### 4.1 Performance Tracker Tool.html
 
-https://rithmschool.github.io/function-timer-demo/
 
-### 5. Official Intro to Big O
-### 6. Simplifying Big O Expressions
-### 7. Big O Time Complexity Quiz.html
-### 8. Big O Time Complexity Quiz 2.html
-### 9. Space Complexity
-### 10. Big O Space Complexity Quiz.html
 ### 11. Logs and Section Recap
 
 ## 3. Analyzing Performance of Arrays and Objects
