@@ -1,0 +1,4 @@
+This is the same as the one in the file.
+hereby
+
+line = line.substring(1)
